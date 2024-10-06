@@ -21,6 +21,7 @@ I can't wait to see how you used it!
 
 * [Combat Scorched Earth from Outer Space][combat]
 * [Fresh Fruit Feeder][fff]
+* [O HIII BAD SKATEPARK][ohiii]
 * Your project name and a link to it here
 
 License
@@ -28,5 +29,6 @@ License
 
 This code is released into the Public Domain.
 
-[combat]: https://jaenis.ch/hobbies/coding/repos/ryuno-ki/js13kgames-2021/src/branch/combat-scorched-earth-from-outer-space/src/js
+[combat]: https://code.jaenis.ch/js13kgames/js13kgames-2021/src/branch/combat-scorched-earth-from-outer-space/journal/2021-08-14.md
 [fff]: https://feed-fresh-fruit.onrender.com
+[ohiii]: https://js13kgames.com/2024/games/o-hiii-bad-skatepark
