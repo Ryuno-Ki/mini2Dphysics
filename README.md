@@ -20,6 +20,7 @@ If you use this code here, please fill a Pull Request to add your project to thi
 I can't wait to see how you used it!
 
 * [Combat Scorched Earth from Outer Space][combat]
+* [Fresh Fruit Feeder][fff]
 * Your project name and a link to it here
 
 License
@@ -28,3 +29,4 @@ License
 This code is released into the Public Domain.
 
 [combat]: https://jaenis.ch/hobbies/coding/repos/ryuno-ki/js13kgames-2021/src/branch/combat-scorched-earth-from-outer-space/src/js
+[fff]: https://feed-fresh-fruit.onrender.com
